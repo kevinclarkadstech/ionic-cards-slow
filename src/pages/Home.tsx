@@ -33,7 +33,7 @@ const Home: React.FC = () => {
       photoUrls: string[];
       tags: { [tag: string]: true };
     }[] = [];
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 200; i++) {
       list.push({
         username: 'joefred',
         created: new Date(),
