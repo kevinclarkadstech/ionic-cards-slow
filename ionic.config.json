@@ -1,0 +1,7 @@
+{
+  "name": "ionic-cards-slow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
